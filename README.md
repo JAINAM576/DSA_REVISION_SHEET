@@ -14,12 +14,12 @@ For each problem, you'll find:
 ---
 
 ## 📂 Folder Structure
-
+```
 problem-topic/
 ├── problem-name/
 │ ├── solution.cpp / .py / .java
 │ └── README.md (contains explanation, T.C., S.C.)
-
+```
 
 
 
